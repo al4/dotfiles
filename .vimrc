@@ -57,6 +57,8 @@ nmap <silent> <c-j> :wincmd j<CR>
 nmap <silent> <c-h> :wincmd h<CR>
 nmap <silent> <c-l> :wincmd l<CR>
 
+imap jj <ESC>
+
 
 let g:syntastic_always_populate_loc_list = 1
 
