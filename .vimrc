@@ -1,3 +1,5 @@
+scriptencoding utf-8
+set encoding=utf-8
 set guifont=Monaco:h12
 syntax on
 
@@ -7,7 +9,7 @@ set shiftwidth=4
 set hlsearch
 set list
 set colorcolumn=120
-set listchars=tab:>.,trail:.,extends:#,nbsp:.
+set listchars=tab:▸\ ,trail:.,extends:#,nbsp:.
 set hidden
 set foldmethod=indent
 set foldnestmax=1
