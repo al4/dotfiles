@@ -44,3 +44,6 @@ Thumbs.db
 .idea/*
 .vagrant/*
 .tox/*
+
+# node modules
+node_modules/
